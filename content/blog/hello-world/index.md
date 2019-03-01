@@ -6,5 +6,5 @@ description: "Quintessential first post."
 
 This is my first post on my new blog!
 
-Shout out to [Gatsby](https://www.gatsbyjs.org) for their awesome Javscript
+Shout out to [Gatsby](https://www.gatsbyjs.org) for their awesome Javascript
 Framework.
